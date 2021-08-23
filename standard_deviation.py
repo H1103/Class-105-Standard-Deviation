@@ -1,3 +1,4 @@
+# standard deviation means how far your data is lying from the mean
 import math
 
 # list of elements to calculate mean
